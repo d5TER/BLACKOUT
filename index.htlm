@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <title>متجر بلاك آوت</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>💠 متجر بلاك آوت 💠</h1>
 
+  <section class="section">
+    <h2>🚗 السيارات</h2>
+    <ul>
+      <li>دوج - 5$</li>
+      <li>شاص - 10$</li>
+      <li>روز رايز - 15$</li>
+      <li>موستنق - 5$</li>
+      <li>مخصصة - 20$</li>
+      <li>جمس سييرا - 10$</li>
+      <li>جي كلاس - 10$</li>
+    </ul>
+    <a href="https://discord.gg/bt-l" class="button">شراء من روم السيارات</a>
+  </section>
+
+  <section class="section">
+    <h2>🏠 البيوت</h2>
+    <ul>
+      <li>بيت - 15$ إلى 20$</li>
+    </ul>
+    <a href="https://discord.gg/DDRrCyEV" class="button">شراء من روم المنازل</a>
+  </section>
+</body>
+</html>
