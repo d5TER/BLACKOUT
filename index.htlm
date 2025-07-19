@@ -1,41 +1,85 @@
-<!-- داخل قسم السيارات -->
-<section id="cars">
-  <h2>🚗 السيارات</h2>
-  <div class="items">
-    <div class="item">
-      <h3>دوج</h3>
-      <p>السعر: 5$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>متجر Blackout</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>🛒 متجر Blackout</h1>
+    <nav>
+      <a href="#cars">السيارات</a>
+      <a href="#houses">البيوت</a>
+    </nav>
+  </header>
+
+  <section id="cars">
+    <h2>🚗 السيارات</h2>
+    <div class="items">
+      <div class="item">
+        <h3>دوج</h3>
+        <p>السعر: 5$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>شاص</h3>
+        <p>السعر: 10$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>روز رايز</h3>
+        <p>السعر: 15$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>روز رايز مخصصة</h3>
+        <p>السعر: 20$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>موستنق</h3>
+        <p>السعر: 5$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>جمس سييرا</h3>
+        <p>السعر: 10$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>جي كلاس</h3>
+        <p>السعر: 10$</p>
+        <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+      </div>
     </div>
-    <div class="item">
-      <h3>شاص</h3>
-      <p>السعر: 10$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
+  </section>
+
+  <section id="houses">
+    <h2>🏠 البيوت</h2>
+    <div class="items">
+      <div class="item">
+        <h3>بيت صغير</h3>
+        <p>السعر: 15$</p>
+        <a href="https://discord.gg/DDRrCyEV" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>بيت متوسط</h3>
+        <p>السعر: 18$</p>
+        <a href="https://discord.gg/DDRrCyEV" class="buy-btn">شراء</a>
+      </div>
+      <div class="item">
+        <h3>بيت فاخر</h3>
+        <p>السعر: 20$</p>
+        <a href="https://discord.gg/DDRrCyEV" class="buy-btn">شراء</a>
+      </div>
     </div>
-    <div class="item">
-      <h3>روز رايز</h3>
-      <p>السعر: 15$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
-    </div>
-    <div class="item">
-      <h3>روز رايز مخصصة</h3>
-      <p>السعر: 20$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
-    </div>
-    <div class="item">
-      <h3>موستنق</h3>
-      <p>السعر: 5$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
-    </div>
-    <div class="item">
-      <h3>جمس سييرا</h3>
-      <p>السعر: 10$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
-    </div>
-    <div class="item">
-      <h3>جي كلاس</h3>
-      <p>السعر: 10$</p>
-      <a href="https://discord.gg/bt-l" class="buy-btn">شراء</a>
-    </div>
-  </div>
-</section>
+  </section>
+
+  <footer>
+    <p>جميع الحقوق محفوظة &copy; Blackout</p>
+  </footer>
+
+</body>
+</html>
